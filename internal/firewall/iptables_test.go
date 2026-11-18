@@ -1,7 +1,7 @@
 package firewall
 
 import (
-	"github.com/gutmensch/podnat-controller/internal/api"
+	"github.com/remembrance/podnat-controller/internal/api"
 	"testing"
 )
 

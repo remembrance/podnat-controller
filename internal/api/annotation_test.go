@@ -2,7 +2,7 @@ package api
 
 import (
 	"errors"
-	"github.com/gutmensch/podnat-controller/internal/common"
+	"github.com/remembrance/podnat-controller/internal/common"
 	"reflect"
 	"testing"
 )

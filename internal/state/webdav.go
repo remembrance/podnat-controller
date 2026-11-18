@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/gutmensch/podnat-controller/internal/common"
+	"github.com/remembrance/podnat-controller/internal/common"
 	"os"
 	"path/filepath"
 	"sync"

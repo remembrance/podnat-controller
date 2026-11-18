@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/gutmensch/podnat-controller/internal/common"
+	"github.com/remembrance/podnat-controller/internal/common"
 	corev1 "k8s.io/api/core/v1"
 	"os"
 	"sync"

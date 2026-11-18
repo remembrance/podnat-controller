@@ -1,4 +1,4 @@
-module github.com/gutmensch/podnat-controller
+module github.com/remembrance/podnat-controller
 
 go 1.21
 

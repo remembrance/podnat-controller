@@ -2,12 +2,12 @@ package main
 
 import (
 	"flag"
-	"github.com/gutmensch/podnat-controller/internal/api"
-	"github.com/gutmensch/podnat-controller/internal/common"
-	"github.com/gutmensch/podnat-controller/internal/controller"
-	"github.com/gutmensch/podnat-controller/internal/firewall"
-	"github.com/gutmensch/podnat-controller/internal/http"
-	"github.com/gutmensch/podnat-controller/internal/state"
+	"github.com/remembrance/podnat-controller/internal/api"
+	"github.com/remembrance/podnat-controller/internal/common"
+	"github.com/remembrance/podnat-controller/internal/controller"
+	"github.com/remembrance/podnat-controller/internal/firewall"
+	"github.com/remembrance/podnat-controller/internal/http"
+	"github.com/remembrance/podnat-controller/internal/state"
 	"k8s.io/klog/v2"
 )
 

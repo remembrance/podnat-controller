@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"github.com/gutmensch/podnat-controller/internal/api"
-	"github.com/gutmensch/podnat-controller/internal/common"
+	"github.com/remembrance/podnat-controller/internal/api"
+	"github.com/remembrance/podnat-controller/internal/common"
 	"k8s.io/client-go/rest"
 	"net"
 	"os"

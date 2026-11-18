@@ -2,7 +2,7 @@ package http
 
 import (
 	"fmt"
-	"github.com/gutmensch/podnat-controller/internal/common"
+	"github.com/remembrance/podnat-controller/internal/common"
 	"net/http"
 
 	"k8s.io/klog/v2"
